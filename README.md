@@ -13,7 +13,9 @@ Contact: b&#x65;musicscript&#64;gm<span>a</span>il&sdot;com
       <img src="https://avatars.githubusercontent.com/u/9338732?v=4" width=100 />
     </td>
     <td>
-      extr
+      extr<br>
+      &middot; <a href="https://github.com/iidx">https://github.com/iidx</a><br>
+      &middot; <a href="https://slime.kr/">https://slime.kr/</a>
     </td>
   </tr>
   <tr>
@@ -21,7 +23,9 @@ Contact: b&#x65;musicscript&#64;gm<span>a</span>il&sdot;com
       <img src="https://avatars.githubusercontent.com/u/6625978?v=4" width=100 />
     </td>
     <td>
-      stypr
+      stypr<br>
+      &middot; <a href="https://github.com/stypr">https://github.com/stypr</a><br>
+      &middot; <a href="https://harold.kim/">https://harold.kim/</a>
     </td>
   </tr>
 </table>
