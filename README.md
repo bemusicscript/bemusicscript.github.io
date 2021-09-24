@@ -24,14 +24,6 @@ Contact: b&#x65;musicscript&#64;gm<span>a</span>il&sdot;com
       stypr
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/61380567?v=4" width=100 />
-    </td>
-    <td>
-      posix-lee
-    </td>
-  </tr>
 </table>
 
 
@@ -42,9 +34,6 @@ Contact: b&#x65;musicscript&#64;gm<span>a</span>il&sdot;com
 * [saber-profile](https://github.com/bemusicscript/saber-profile)
   * https://bs.slime.kr/
   * Shows your BeatSaber tier and profile creation
-
-* [BMS2BMSON-Python](https://github.com/bemusicscript/bms2bmson-python)
-  * Converts from BMS to BMSON
 
 * オンゲキ/CHUNITHM/maimai
   * [gcm-storefinder](https://github.com/bemusicscript/gcm-storefinder/)
@@ -65,3 +54,5 @@ Contact: b&#x65;musicscript&#64;gm<span>a</span>il&sdot;com
 * [respect-v-info](https://github.com/bemusicscript/respect-v-info)
   * Ladder match information service for DJMAX RESPECT V 
   * Closed as the ladder information API was blocked after the v145 patch.
+* [BMS2BMSON-Python](https://github.com/bemusicscript/bms2bmson-python)
+  * Converts from BMS to BMSON
