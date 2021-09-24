@@ -32,7 +32,7 @@ Contact: b&#x65;musicscript&#64;gm<span>a</span>il&sdot;com
 ### Active
 
 * [saber-profile](https://github.com/bemusicscript/saber-profile)
-  * https://bs.slime.kr/
+  * https://beatsaber.kr/
   * Shows your BeatSaber tier and profile creation
 
 * オンゲキ/CHUNITHM/maimai
