@@ -28,12 +28,25 @@ Contact: b&#x65;musicscript&#64;gm<span>a</span>il&sdot;com
       &middot; <a href="https://harold.kim/">https://harold.kim/</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://codeberg.org/avatars/05b3dce443a7bb5c9a0bb571bde1ceb7?size=512" width=100 />
+    </td>
+    <td>
+      lemonsour<br>
+      &middot; <a href="https://codeberg.org/lemonsour">https://codeberg.org/lemonsour</a><br>
+    </td>
+  </tr>
 </table>
 
 
 ## Projects
 
 ### Active
+
+* [sekai.run](https://github.com/bemusicscript/sekai.run)
+  * https://sekai.run/
+  * Event-related information, tiering information, tips, etc.
 
 * [saber-profile](https://github.com/bemusicscript/saber-profile)
   * https://beatsaber.kr/
